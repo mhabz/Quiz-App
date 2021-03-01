@@ -1,4 +1,4 @@
 # Quiz-App
 Quiz App with Trivia API using Tkinter and Canvas
-![Capture d’écran 2021-03-01 123617](https://user-images.githubusercontent.com/60076730/109492680-a1e34100-7a8b-11eb-8373-21f5016f75da.jpg)
-![Capture d’écran 2021-03-01 123735](https://user-images.githubusercontent.com/60076730/109492687-a3ad0480-7a8b-11eb-8218-5abd0d012525.jpg)
+  ![pixiz-01-03-2021-12 44 03](https://user-images.githubusercontent.com/60076730/109492887-eff84480-7a8b-11eb-9c1c-134009717ce4.jpg)
+
